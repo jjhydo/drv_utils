@@ -818,7 +818,7 @@ selection-color: #ffffff;</string>
              <string notr="true"/>
             </property>
             <property name="currentIndex">
-             <number>0</number>
+             <number>3</number>
             </property>
             <widget class="QWidget" name="tab">
              <property name="sizePolicy">
@@ -997,66 +997,7 @@ selection-color: #ffffff;</string>
               <item>
                <layout class="QVBoxLayout" name="verticalLayout_22">
                 <item>
-                 <layout class="QVBoxLayout" name="verticalLayout_21">
-                  <item>
-                   <widget class="QGroupBox" name="groupBox_2">
-                    <property name="title">
-                     <string>Log Decode</string>
-                    </property>
-                    <layout class="QVBoxLayout" name="verticalLayout_20">
-                     <item>
-                      <widget class="QPushButton" name="pushButton_TPAT">
-                       <property name="enabled">
-                        <bool>true</bool>
-                       </property>
-                       <property name="text">
-                        <string>Panic Decode (TPAT)</string>
-                       </property>
-                      </widget>
-                     </item>
-                     <item>
-                      <widget class="QPushButton" name="pushButton_TPAT_2">
-                       <property name="enabled">
-                        <bool>false</bool>
-                       </property>
-                       <property name="text">
-                        <string>System Event Log</string>
-                       </property>
-                      </widget>
-                     </item>
-                    </layout>
-                   </widget>
-                  </item>
-                  <item>
-                   <widget class="QGroupBox" name="groupBox">
-                    <property name="title">
-                     <string>Data Editor</string>
-                    </property>
-                    <layout class="QVBoxLayout" name="verticalLayout_3">
-                     <item>
-                      <widget class="QPushButton" name="pushButton_TFA_Data_Edit_2">
-                       <property name="enabled">
-                        <bool>false</bool>
-                       </property>
-                       <property name="text">
-                        <string>MST Data</string>
-                       </property>
-                      </widget>
-                     </item>
-                     <item>
-                      <widget class="QPushButton" name="pushButton_TFA_Data_Edit">
-                       <property name="enabled">
-                        <bool>true</bool>
-                       </property>
-                       <property name="text">
-                        <string>TFA Data</string>
-                       </property>
-                      </widget>
-                     </item>
-                    </layout>
-                   </widget>
-                  </item>
-                 </layout>
+                 <layout class="QVBoxLayout" name="verticalLayout_21"/>
                 </item>
                 <item>
                  <spacer name="verticalSpacer">
@@ -1916,10 +1857,6 @@ selection-color: #ffffff;</string>
   <tabstop>RescanPushButton</tabstop>
   <tabstop>CheckupPushButton</tabstop>
   <tabstop>historyTextBrowser</tabstop>
-  <tabstop>pushButton_TPAT</tabstop>
-  <tabstop>pushButton_TPAT_2</tabstop>
-  <tabstop>pushButton_TFA_Data_Edit_2</tabstop>
-  <tabstop>pushButton_TFA_Data_Edit</tabstop>
   <tabstop>linkTextBrowser</tabstop>
   <tabstop>tabWidget_r</tabstop>
   <tabstop>rtableView</tabstop>
