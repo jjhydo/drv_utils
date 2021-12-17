@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/html">
+        <file>link.html</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icon/addItem.png</file>
+        <file>icon/arrowDown.png</file>
+        <file>icon/arrowUp.png</file>
+        <file>icon/newFile.png</file>
+        <file>icon/openDoc.png</file>
+        <file>icon/removeItem.png</file>
+        <file>icon/save.png</file>
+        <file>icon/nvme.png</file>
+        <file>icon/sandforce.png</file>
+        <file>icon/sata.png</file>
+        <file>icon/cancel.png</file>
+        <file>icon/clock.png</file>
+        <file>icon/clock2.png</file>
+        <file>icon/info.png</file>
+        <file>icon/tools.png</file>
+        <file>icon/tree.png</file>
+        <file>icon/tree2.png</file>
+        <file>icon/ssdread.png</file>
+        <file>icon/ssdwrite.png</file>
+        <file>icon/ecliconnect.png</file>
+        <file>icon/eclidisconnect.png</file>
+        <file>icon/eclisetting.png</file>
+        <file>icon/maxwin.png</file>
+        <file>icon/miniwin.png</file>
+        <file>icon/bigginer.png</file>
+        <file>icon/ssd.png</file>
+        <file>icon/dashboard.png</file>
+        <file>icon/search.png</file>
+        <file>icon/sync.png</file>
+        <file>icon/arrowLeft.png</file>
+        <file>icon/arrowRight.png</file>
+        <file>icon/close_pane.png</file>
+        <file>icon/open_pane.png</file>
+    </qresource>
+</RCC>

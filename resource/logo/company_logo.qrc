@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>seagate.png</file>
+        <file>seagate_s.png</file>
+        <file>seagate_mov.gif</file>
+    </qresource>
+</RCC>
